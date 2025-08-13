@@ -1,6 +1,8 @@
 Library Management System - Java OOP Implementation
+
 📋 Task Overview
 This is Task 3 of the Java Developer Internship program, focused on implementing a Library Management System using Object-Oriented Programming (OOP) principles.
+
 🎯 Objective
 Develop a mini system to manage books and users using core OOP concepts including Abstraction, Inheritance, Polymorphism, and Encapsulation.
 🛠️ Tools Used
@@ -10,7 +12,7 @@ IDE: VS Code
 Terminal: Command line interface for compilation and execution
 
 📁 Project Structure
-library-management-system/
+library-management-system
 ├── Book.java
 ├── User.java
 ├── Library.java
@@ -41,7 +43,7 @@ Purpose: Main class with user interface and menu system
 Features: Interactive menu, sample data initialization, user input handling
 
 🚀 Features Implemented
-Core Features
+   Core Features
 
 ✅ Book Management: Add, display, search books
 ✅ User Management: Register users with customizable book limits
@@ -108,3 +110,4 @@ The system comes pre-loaded with:
 
 5 Books: Java Programming, Clean Code, Design Patterns, Effective Java, Spring in Action
 3 Users: John Doe, Jane Smith, Mike Johnson
+
