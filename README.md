@@ -9,13 +9,13 @@ Develop a mini system to manage books and users using core OOP concepts includin
 Language: Java
 IDE: VS Code
 Terminal: Command line interface for compilation and execution
+
 📁 Project Structure
 library-management-system/
 ├── Book.java
 ├── User.java
 ├── Library.java
 ├── LibraryManagementSystem.java
-└── 
 
 🔧 Classes Implementation
 1. Book Class
@@ -92,3 +92,4 @@ The system comes pre-loaded with:
 
 5 Books: Java Programming, Clean Code, Design Patterns, Effective Java, Spring in Action
 3 Users: John Doe, Jane Smith, Mike Johnson
+
